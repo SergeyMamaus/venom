@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://primeluxhair.com/sitemap.xml
